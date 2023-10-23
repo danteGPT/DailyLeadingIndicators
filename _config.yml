@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dante V"
+  name   : "Dante"
   avatar : "danteGPT/dantegpt.github.io/assets/images/leading indicator.jpg"
-  bio    : "Free"
+  bio    : "Using langchain, huggingface, and pythonic methods to Automate my blog and newsletter"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
