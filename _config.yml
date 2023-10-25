@@ -18,7 +18,7 @@ email: business@leadingindicator.co
 description: >- # this means to ignore newlines until "baseurl:"
   "Using pythonic methods and large language models to se around the corner of trends"
 twitter_username: Leadingindicator
-github_username: danteGPT
+github_username: DanteGPT
 minimal_mistakes_skin: default
 search: true
 
@@ -62,28 +62,28 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://Leadingindicator.co"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/leadingindicator"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dantegpt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/leadingindicator"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/leadingindicator"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dantegpt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/leadingindicator"
 
 defaults:
   # _posts
